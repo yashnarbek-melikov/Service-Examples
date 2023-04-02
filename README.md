@@ -1,4 +1,5 @@
 # Service-Examples
 
 - Play music on background service
-- checking internet with broadcast and jobScheduler
+- Checking internet with broadcast and jobScheduler
+- Notification with foreground service
